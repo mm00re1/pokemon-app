@@ -1,0 +1,53 @@
+html,
+body {
+  padding: 0;
+  margin: 100;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
+    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  line-height: 1.6;
+  font-size: 18px;
+  background-color: gold;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+ul {
+ text-align: center;
+ list-style-position: inside;
+}
+
+.mixed-chart {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
