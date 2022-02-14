@@ -10,9 +10,9 @@ export default function Home() {
       <Head>
         <title>Pokemon App</title>
       </Head>
-      <Form />
       <main>
         <h1>Learn about Pokemon here</h1>
+	<Form />
 	<h2>Pokemon Categories</h2>
         <Categories /> 
 
